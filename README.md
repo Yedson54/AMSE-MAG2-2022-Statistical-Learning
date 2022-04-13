@@ -1,2 +1,3 @@
 # AMSE-MAG2-2022-Statistical-Learning
-Statistcal Learning Project on Heart Disease Data Set
+
+[Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/heart+disease)
